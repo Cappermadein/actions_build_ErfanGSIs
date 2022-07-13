@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/15/8.0.5.0/cn/20210616123154/a1e7a1d5/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://m0l73gu3afie1340g4jk56nofh7bu29vjaucd3qovsfdq3g0udbfvkfl.qc.x.bsgslb.cn:7843/xdispatch78e72093b7e8bb17/bigota.d.miui.com/V12.0.1.0.QFAMIXM/cepheus_global_images_V12.0.1.0.QFAMIXM_20200613.0000.00_10.0_global_4b4ca02ec6.tgz?BSLuBan=eyJob3N0IjoiYmlnb3RhLmQubWl1aS5jb20iLCJic3JlcWlkIjoiOGQ0NmY5ZDIxZDBmM2EyMzlkNjk0NGYyYzFlMzU0M2IiLCJjYWNoZV9rZXkiOiJcL1YxMi4wLjEuMC5RRkFNSVhNXC9jZXBoZXVzX2dsb2JhbF9pbWFnZXNfVjEyLjAuMS4wLlFGQU1JWE1fMjAyMDA2MTMuMDAwMC4wMF8xMC4wX2dsb2JhbF80YjRjYTAyZWM2LnRneiIsImRuc19ob3N0IjoienhtcGYudi50cnBjZG4ubmV0Iiwia2V5IjoiYjU1MzEwOWQzYzA3ZWVlZmU5YWVlNjQ5ZmU0ZTIxODMiLCJ0cyI6MTY1NzY5NTQyN30=
+  ROM_NAME: MIUI
   BUILD_TYPE: a
   TZ: Asia/Shanghai
 
